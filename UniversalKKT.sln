@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{04A291E9-E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{47A628C5-BB79-4EC6-9D3C-FA0041C74E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalKKT.Core", "UniversalKKT.Core\UniversalKKT.Core.csproj", "{20060360-26DE-4B9F-85D0-9EF7F324D082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalKKT.Core", "src\Core\UniversalKKT.Core\UniversalKKT.Core.csproj", "{20060360-26DE-4B9F-85D0-9EF7F324D082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
