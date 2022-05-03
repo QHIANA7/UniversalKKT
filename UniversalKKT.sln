@@ -13,7 +13,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{04A291E9-E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{47A628C5-BB79-4EC6-9D3C-FA0041C74E28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalKKT.Core", "UniversalKKT.Core\UniversalKKT.Core.csproj", "{20060360-26DE-4B9F-85D0-9EF7F324D082}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20060360-26DE-4B9F-85D0-9EF7F324D082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20060360-26DE-4B9F-85D0-9EF7F324D082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20060360-26DE-4B9F-85D0-9EF7F324D082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20060360-26DE-4B9F-85D0-9EF7F324D082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
@@ -21,6 +33,7 @@ Global
 		{79CC2252-AB0A-47A9-81A6-6D8A484ED9A9} = {32512881-8647-4D4A-B2D7-7518069497CA}
 		{04A291E9-E64B-4417-BA30-48A97CA9EC96} = {32512881-8647-4D4A-B2D7-7518069497CA}
 		{47A628C5-BB79-4EC6-9D3C-FA0041C74E28} = {32512881-8647-4D4A-B2D7-7518069497CA}
+		{20060360-26DE-4B9F-85D0-9EF7F324D082} = {04A291E9-E64B-4417-BA30-48A97CA9EC96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D6C54BC-8778-4233-855C-5363352CE87A}
