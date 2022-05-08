@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UniversalKKT.Client.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UniversalKKT.Client.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
